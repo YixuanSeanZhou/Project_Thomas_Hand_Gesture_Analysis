@@ -1,6 +1,7 @@
 # Don't track content of these folders
 venv/
 data/
+keras-video-classification/
 
 # Packages #
 ############
